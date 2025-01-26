@@ -1,5 +1,10 @@
 ---
 title: "AE 03: Duke Forest + data visualization"
+author: "James Turner"
+format: pdf
+editor: 
+  markdown: 
+    wrap: sentence
 ---
 
 ```{r}
